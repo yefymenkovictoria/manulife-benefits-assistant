@@ -2,6 +2,10 @@
 
 **Built by Victoria Yefymenko** as a personal full-stack demo. It combines a responsive benefits dashboard with a Gemini-powered chatbot that answers questions using sample health, disability, and retirement policies.
 
+## Demo Video
+
+[Watch the demo](https://www.kapwing.com/videos/6abdca30837336bf3b78efb5)
+
 ## Run Locally
 
 Requirements: Node.js 18+ and npm.
