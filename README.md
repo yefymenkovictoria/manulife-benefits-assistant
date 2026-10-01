@@ -4,7 +4,7 @@
 
 ## Demo Video
 
-[Watch the demo](https://www.kapwing.com/videos/6abdca30837336bf3b78efb5)
+[Watch the demo](https://youtu.be/umYi0BANqs4)
 
 ## Run Locally
 
